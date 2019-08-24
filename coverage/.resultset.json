@@ -1,0 +1,42 @@
+{
+  "Cucumber Features": {
+    "coverage": {
+      "/Users/darialykova/unter_tech/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/darialykova/unter_tech/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/darialykova/unter_tech/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/darialykova/unter_tech/app/controllers/application_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/darialykova/unter_tech/app/helpers/application_helper.rb": [
+        0,
+        0
+      ],
+      "/Users/darialykova/unter_tech/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/darialykova/unter_tech/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1566642666
+  }
+}
